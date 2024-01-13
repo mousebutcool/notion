@@ -66,9 +66,9 @@ background-color: rgb(127 153 102);
 .interval-btn:hover,
 #start-stop-btn:hover,
 #reset-btn:hover {
-  background-color: black;
-  color: white;
-  border-color: black;
+  background-color: rgb(43 26 26);
+  color: rgb(127 153 102);
+  border-color: rgb(43 26 26);
   cursor: pointer;
 }
 
