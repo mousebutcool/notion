@@ -60,6 +60,7 @@ background-color: rgb(127 153 102);
   padding: 0.5rem 0.75rem;
   text-align: center;
   transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+background-color: rgb(127 153 102);
 }
 
 .interval-btn:hover,
