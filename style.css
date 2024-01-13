@@ -2,15 +2,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css");
 
-element.style {
-    background-color: rgb(127 153 102);
-    color: rgb(43 26 26);
-}
+
 
 body {
   overflow-x: hidden;
   overflow-y: hidden;
-  color: green;
+background-color: rgb(127 153 102);
 }
 
 #pomodoro-container {
